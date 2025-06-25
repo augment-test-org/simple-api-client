@@ -1,7 +1,4 @@
-# test-setup-script
-A dummy repo to test out agent onboarding and setup script creation
-
-## Simple Python API Client
+# Simple Python API Client
 
 This repository contains a simple Python script for making API calls with bearer token authentication. The token is read from a local file for security.
 
