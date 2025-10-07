@@ -76,12 +76,3 @@ Run the test suite to verify everything works:
 ```bash
 python test_api_client.py
 ```
-
-### Files
-
-- `api_client.py` - Main API client script
-- `setup.py` - Automated setup script
-- `test_api_client.py` - Test suite
-- `requirements.txt` - Python dependencies
-- `.env.example` - Environment variables template
-- `token.txt.example` - Token file template
