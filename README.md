@@ -2,6 +2,8 @@
 
 This repository contains a simple Python script for making API calls with bearer token authentication. The token is read from a local file for security.
 
+This is a random line of text lalalala, this line should be deleted ASAP
+
 ### Quick Setup
 
 1. **Run the setup script:**
